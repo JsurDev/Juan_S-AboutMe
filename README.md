@@ -32,7 +32,7 @@ I’m Juan S, a passionate software developer currently finishing my Technical D
 - Transitioning from classic ASP.NET MVC to .NET Core
 
 ### 📫 How to Reach Me
-- www.linkedin.com/in/juan-suriano-678946384
+- www.linkedin.com/in/juan-suriano-dev
 
 
 ### ⚡ Fun Fact
